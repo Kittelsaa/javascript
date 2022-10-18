@@ -1,0 +1,110 @@
+html, body{
+    margin: 0px;
+    padding: 0%;
+    background-color: rgb(229, 227, 224);
+}
+form{
+    margin: 0px;
+    padding: 0%;
+    width: 335px;
+    height: 312px;
+    border: 0.5px solid rgb(211, 208, 208);
+    border-radius: 5px;
+    background-color: white;
+    margin: 10% 50% 0% 40%;
+}
+form h1{
+    margin: 0px;
+    padding: 0%;
+    width: 200px;
+    height: 30px;
+    position: absolute;
+    left: 750px;
+    top: 190px;
+    font-size: 23px;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+}
+form input{
+    margin: 0px;
+    padding: 0%;
+    width: 280px;
+    height: 35px;
+    border: 1.5px solid rgb(219, 28, 133);
+    border-radius: 5px;
+    padding-left: 10px;
+    margin-left: 20px;
+}
+form #one{
+    margin-top: 73px;
+}
+form #two{
+    margin-top: 13px;
+}
+form .one{
+    margin-top: 70px;
+}
+form .two{
+    margin-top: 10px;
+}
+form h4{
+    margin: 0px;
+    padding: 0%;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    position: absolute;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+}
+form div{
+    margin: 0px;
+    padding: 0%;
+    margin-top: 5px;
+    font-size: 11px;
+    font-weight: 300;
+    margin-left: 20px;
+    color: rgb(219, 28, 133);
+    font-family: Arial, Helvetica, sans-serif;
+} 
+button{
+    margin: 0px;
+    padding: 0%;
+    width: 290px;
+    height: 35px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 400;
+    font-size: 17px;
+    background-color: rgb(28, 94, 207);
+    border: 0px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
