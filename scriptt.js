@@ -1,50 +1,33 @@
-/* 
 var myForm = document.forms.myForm;
 var output = document.getElementById("output");
+
+
 
 myForm.onsubmit = function(){
 
     if(myForm.name.value == ""){
         output.innerHTML = "Please enter your name";
+        one.style.border = "1px solid rgb(219, 28, 133)";
         return false;
     }else{
         output.innerHTML = "";
         return true;
     }
 };
-*/
 
 
-var myForm = document.forms.myForm;
-var output = document.getElementById("output");
-
+/*
+var outputt = document.getElementById("outputt");
 myForm.onsubmit = function(){
-
-    if(myForm.name.value == ""){
-        output.innerHTML = "";
-        return false;
-    }else{
-        output.innerHTML = "";
-        return true;
-    }
-};
-
-
-
-function click(){
-
     if(myForm.email.value == ""){
-        output.innerHTML = "";
+        outputt.innerHTML = "Please enter your email";
+        two.style.border = "1px solid rgb(219, 28, 133)";
         return false;
     }else{
-        output.innerHTML = "";
+        outputt.innerHTML = "";
         return true;
     }
-};
-
-
-
-
+};  */
 
 
 
